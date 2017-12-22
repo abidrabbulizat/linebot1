@@ -1,0 +1,6 @@
+{
+  "name": "Line Trial",
+  "description": "Trial",
+  "repository": "https://github.com/line/line-bot-sdk-php",
+  "keywords": ["line bot", "messaging api"]
+}
