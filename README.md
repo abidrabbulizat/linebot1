@@ -196,6 +196,10 @@ See also
 A very simple SDK (subset) for the LINE Messaging API for PHP.
 line-bot-sdk-tiny provides a simple interface and functions which makes it a good way to learn how to use the LINE Messaging API.
 
+
+# Deploy to:
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 License
 --
 
